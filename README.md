@@ -22,4 +22,5 @@ Furthermore, the notebook provides a detailed explanation of how VAEs optimize t
 ## Results
 The following video shows the latent space of the VAE and the generative capabilities of the network. 
 
-![VAE_GIF](https://github.com/SimoManni/Variational-Autoencoder-on-MNIST-Dataset/assets/151052936/94a76e78-e0de-4e11-b665-15bbcd1beee2)
+![image](https://github.com/SimoManni/Variational-Autoencoder-on-MNIST-Dataset/assets/151052936/e787c954-a1db-4ffc-9e60-10f9e31fae8e)
+
